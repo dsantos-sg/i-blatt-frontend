@@ -1,0 +1,15 @@
+// {
+// 	"welcome": "Solução inteligente para manter suas anotações de um novo idioma simples e semp-re em mãos",
+// 	"login": "conecte-se",
+// 	"register": "registre-se",
+// 	"registerNewUser": "NOVO USUÁRIO? PORFAVOR REGISTRE-SE AQUI",
+// 	"username": "Seu Nome",
+// 	"email": "Email",
+// 	"emailError1": "Formato de email inválido",
+// 	"passwordError": "Senha deve ter numeros e letras",
+// 	"loginError": "Email ou senha errados, tente de novo",
+// 	"passwordForgot": "ESQUECEU A SENHA?",
+// 	"passwordConfirm": "Confirme sua senha",
+// 	"passwordConfirmError": "Sua senha não confere. Por favor tente de novo.",
+// 	"nativeLanguage": "Select your native language"
+// }
